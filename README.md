@@ -11,5 +11,5 @@ This project was developed as part of my studies on using Fastify, a fast and lo
 - **Fastify**: A web framework focused on high performance and efficiency.
 - **ts-up**: A build tool for TypeScript, simplifying the build and deployment process.
 - **Knex**: A SQL query builder for JavaScript, used to interact with the database and manage user transactions.
-- **Vitest**: An E2E testing tool, ensuring application quality and functionality through automated tests.
+- **Vitest**: An testing tool, ensuring application quality and functionality through automated tests.
 
